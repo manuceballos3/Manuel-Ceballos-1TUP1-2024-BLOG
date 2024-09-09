@@ -46,7 +46,6 @@ align-self: center;
 .articulo1, .articulo2, .articulo3{
     background-color: black;
     padding: 40px;
-    border: 1px solid rgba(0, 111, 0, 0.8);;
     border-radius: 5px;
     margin: 40px;
     height: 550px;
