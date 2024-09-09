@@ -47,11 +47,17 @@ align-self: center;
     background-color: black;
     padding: 40px;
     border: 1px solid rgba(0, 111, 0, 0.8);;
+    border-radius: 5px;
     margin: 40px;
     height: 550px;
     width: 300px;
     align-self: center;
     box-shadow: 10px 10px 50px 20px rgba(0, 111, 0, 0.8);
+    transition: transform .2s;
+}
+
+.articulo1:hover, .articulo2:hover, .articulo3:hover{
+    transform: scale(1.2);
 }
 
 h2{
